@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.nats:jnats:2.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.nats/jnats/2.8.0/e01ed338e49f10a67a91a0b5bb6aa202b20957c3/jnats-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.nats/jnats/2.8.0/7c3bdd03d03d4b27397eb16a7be6515388da4f3d/jnats-2.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.nats/jnats/2.8.0/1679d1c6fa582b9f5a7619c150380223ac4b4e10/jnats-2.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
